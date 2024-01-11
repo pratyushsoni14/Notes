@@ -1,0 +1,9 @@
+http://10.77.1.10/twiki/pub/ZenKnow/PointersMemMgmt/README
+
+Implement Queue using linked list. 
+But, a linked list can have maximum 5 elements, so if the user pushes sixth element then 
+you should create one more linked list and push the newer element into that linked list.
+
+For the outside user, your program should have only two functions:
+  1. push()
+  2. pop()

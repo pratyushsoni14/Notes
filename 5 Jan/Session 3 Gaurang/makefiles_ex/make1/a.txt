@@ -1,0 +1,1 @@
+g++ fun1.cpp main.cpp -o exe

@@ -1,0 +1,16 @@
+FOLDER LINK
+https://vehant365-my.sharepoint.com/:f:/g/personal/gauranga_vehant_com/EsuLCaB0AglHrYVuQzklrDYBXDa1EbMZj7V0SG1dN6T4RA?e=re9DRE
+
+
+
+
+
+.so - dynamic library
+
+cd make4
+so write ldd lib/mylib.a
+ldd bin/exe
+
+
+
+make all makefiles on our own
